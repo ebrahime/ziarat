@@ -14,17 +14,17 @@ html, body {
 	margin:0;
 	padding:0;
 }
-#ArbText01 { font-family: adobe arabic;direction:rtl; font-size: 35px; text-align:center; 
+#ArbText01 { font-family: adobe arabic;direction:rtl; font-size: 20px; text-align:center;line-height: 25px; 
     color:#b04813;
     
 }
-#Farsitx1 {font-family: "BKoodakBold"; direction:rtl; font-size: 20px; text-align:center; }
-#Farsitx2 {font-family: "BKoodakBold"; direction:rtl; font-size: 20px; text-align:right; color: red;}
+#Farsitx1 {font-family: "BKoodakBold"; direction:rtl; font-size: 15px; text-align:center; line-height: 25px;}
+#Farsitx2 {font-family: "BKoodakBold"; direction:rtl; font-size: 15px; text-align:right; color: red;line-height: 25px;}
 
-p {			font-family: "BKoodakBold";direction:rtl;font-size: 20px;
+p {			font-family: "BKoodakBold";direction:rtl;font-size: 15pxpx;   line-height: 25px;
+
 text-align:justify;
-}
-/* Global Structure */
+}/* Global Structure */
 
 .wrapper {
 	max-width:100%;
